@@ -1,3 +1,3 @@
-### API DA CHAMPIONS LEAGUE COM NODE.JS E EXPRESS
+### CHAMPIONS LEAGUE API WITH NODE.JS AND EXPRESS
 
-Criação de uma API completa e eficiente para acessar e manipular dados da Champions League, utilizando Node.js e o framework Express. Esta API proporciona integração com informações detalhadas sobre equipas, jogadores, partidas e classificações, ideal para plataformas que necessitam de acesso rápido e confiável a estatísticas atualizadas, suportando uma interface de usuário fluída e responsiva.
+Creation of a complete and efficient API to access and manipulate Champions League data using Node.js and the Express framework. This API provides integration with detailed information about teams, players, matches, and standings, making it ideal for platforms that require quick and reliable access to up-to-date statistics, supporting a smooth and responsive user interface.
